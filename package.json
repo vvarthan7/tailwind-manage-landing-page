@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "copy": "copy \"index.html\" \"public\"",
-    "build": "tailwindcss -i ./input.css -o ./public/main.css && npm run copy",
+    "build": "tailwindcss -i ./input.css -o ./public/main.css",
     "watch": "tailwindcss -i ./input.css -o ./public/main.css --watch"
   },
   "repository": {
