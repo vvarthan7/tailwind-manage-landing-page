@@ -29,6 +29,10 @@ Users should be able to:
   - The email address is not formatted correctly
 
 ### Screenshot
+![Frontend Mentor - Manage landing page - 127 0 0 1](https://user-images.githubusercontent.com/3669703/178099491-cbaab6f6-7089-4a6d-97ab-09cc81c06e88.png)
+
+![Frontend Mentor - Manage landing page Mobile View - 127 0 0 1](https://user-images.githubusercontent.com/3669703/178099487-fb9aac52-575c-4d8b-9f81-06ac9d8f9d1f.png)
+
 
 ### Links
 
