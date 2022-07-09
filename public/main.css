@@ -693,10 +693,6 @@ video {
   flex: 1 1 0%;
 }
 
-.cursor-move {
-  cursor: move;
-}
-
 .flex-col {
   flex-direction: column;
 }
@@ -783,10 +779,6 @@ video {
 
 .self-end {
   align-self: flex-end;
-}
-
-.overflow-x-auto {
-  overflow-x: auto;
 }
 
 .rounded-full {
@@ -1081,10 +1073,6 @@ body {
     max-width: 36rem;
   }
 
-  .md\:max-w-6xl {
-    max-width: 72rem;
-  }
-
   .md\:cursor-move {
     cursor: move;
   }
@@ -1117,16 +1105,8 @@ body {
     margin-left: calc(1.5rem * calc(1 - var(--tw-space-x-reverse)));
   }
 
-  .md\:overflow-x-auto {
-    overflow-x: auto;
-  }
-
   .md\:overflow-x-scroll {
     overflow-x: scroll;
-  }
-
-  .md\:scroll-auto {
-    scroll-behavior: auto;
   }
 
   .md\:bg-transparent {
@@ -1155,9 +1135,5 @@ body {
   .md\:text-4xl {
     font-size: 2.25rem;
     line-height: 2.5rem;
-  }
-
-  .md\:hover\:overflow-x-scroll:hover {
-    overflow-x: scroll;
   }
 }
